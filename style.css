@@ -252,6 +252,7 @@ body {
   #ourtrainers .box .textbox ul {
     display: flex;
     flex-direction: row;
+    margin-right: 14px;
   }
   #ourtrainers .box .textbox ul li {
     margin: 0 10px;
@@ -261,8 +262,13 @@ body {
   }
 }
 @media screen and (max-width: 768px) {
-  #ourtrainers .wid {
-    text-align: text-center;
+  #ourtrainers .textbox h2 {
+    font-size: 49px;
+    padding: 20px 0 0;
+  }
+  #ourtrainers .textbox h4 {
+    font-size: 27px;
+    margin: 20px 0;
   }
 }
 
@@ -323,6 +329,17 @@ body {
   font-size: 30px;
   margin: 20px;
   color: #d4cece;
+}
+@media screen and (max-width: 992px) {
+  #pricingtable .textbox .icon {
+    font-size: 44px;
+  }
+  #pricingtable .textbox h1 {
+    font-size: 55px;
+  }
+  #pricingtable .textbox h5 {
+    font-size: 25px;
+  }
 }
 
 #questions {
