@@ -351,11 +351,17 @@ body {
   }
 }
 @media screen and (max-width: 768px) {
+  #pricingtable .box {
+    margin-top: 34px;
+  }
   #pricingtable .box ul h4 {
     font-size: 28px;
   }
   #pricingtable .box .btn h4 {
     font-size: 23px;
+  }
+  #pricingtable .textbox h5 {
+    margin-top: 23px;
   }
 }
 
