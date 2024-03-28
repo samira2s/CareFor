@@ -340,9 +340,6 @@ body {
   #pricingtable .textbox h5 {
     font-size: 35px;
   }
-  #pricingtable .box {
-    width: 340px;
-  }
   #pricingtable .box h2 {
     font-size: 45px;
   }
@@ -358,7 +355,7 @@ body {
     font-size: 28px;
   }
   #pricingtable .box .btn h4 {
-    font-size: 23px;
+    font-size: 20px;
   }
   #pricingtable .textbox h5 {
     margin-top: 23px;
@@ -412,6 +409,14 @@ body {
 }
 #questions .bigicon i {
   font-size: 30px;
+}
+@media screen and (max-width: 992px) {
+  #questions .wid .bigicon {
+    font-size: 44px;
+  }
+  #questions .wid h1 {
+    font-size: 39px;
+  }
 }
 
 #doggerblog {
