@@ -338,7 +338,16 @@ body {
     font-size: 55px;
   }
   #pricingtable .textbox h5 {
-    font-size: 25px;
+    font-size: 35px;
+  }
+  #pricingtable .box {
+    width: 340px;
+  }
+  #pricingtable .box h2 {
+    font-size: 45px;
+  }
+  #pricingtable .box h3 {
+    font-size: 28px;
   }
 }
 
