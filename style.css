@@ -350,6 +350,14 @@ body {
     font-size: 28px;
   }
 }
+@media screen and (max-width: 768px) {
+  #pricingtable .box ul h4 {
+    font-size: 28px;
+  }
+  #pricingtable .box .btn h4 {
+    font-size: 23px;
+  }
+}
 
 #questions {
   padding: 40px 0;
