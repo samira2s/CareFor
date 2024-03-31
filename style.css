@@ -340,12 +340,6 @@ body {
   #pricingtable .textbox h5 {
     font-size: 35px;
   }
-  #pricingtable .box h2 {
-    font-size: 45px;
-  }
-  #pricingtable .box h3 {
-    font-size: 28px;
-  }
 }
 @media screen and (max-width: 768px) {
   #pricingtable .box {
