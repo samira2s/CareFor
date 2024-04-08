@@ -3,6 +3,9 @@ body {
   font-weight: 500;
 }
 
+.imgbox {
+  overflow: hidden;
+}
 .imgbox img {
   width: 100%;
 }
@@ -41,7 +44,7 @@ body {
 }
 
 #welcome {
-  padding: 40px 0;
+  padding: 70px 0;
 }
 #welcome .textbox {
   padding: 80px;
@@ -79,27 +82,16 @@ body {
   color: #d4cece;
 }
 @media screen and (max-width: 992px) {
-  #welcome .wid {
-    text-align: center;
-  }
-  #welcome .wid .icon {
-    font-size: 45px;
-  }
-  #welcome .wid h1 {
+  #welcome .wid .icon i {
     font-size: 49px;
   }
+  #welcome .wid h1 {
+    font-size: 44px;
+    margin-top: 29px;
+  }
   #welcome .wid h3 {
-    font-size: 45px;
-  }
-  #welcome .textbox {
-    text-align: text-start;
-    margin-right: 55px;
-  }
-  #welcome .textbox h2 {
-    font-size: 53px;
-  }
-  #welcome .textbox h6 {
-    font-size: 38px;
+    font-size: 37px;
+    margin-right: 23px;
   }
 }
 
