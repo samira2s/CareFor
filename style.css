@@ -93,6 +93,23 @@ body {
     font-size: 37px;
     margin-right: 23px;
   }
+  #welcome .textbox {
+    text-align: center;
+  }
+  #welcome .textbox h2 {
+    font-size: 42px;
+  }
+  #welcome .textbox h6 {
+    font-size: 29px;
+  }
+  #welcome .textbox .btn {
+    margin-top: 17px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #welcome .wid h3 {
+    margin-right: 19px;
+  }
 }
 
 #aboutus {
