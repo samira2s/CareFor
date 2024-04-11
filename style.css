@@ -156,26 +156,20 @@ body {
 }
 @media screen and (max-width: 992px) {
   #aboutus .textbox {
-    text-align: text-start;
-    padding: 39px 49px;
+    text-align: center;
   }
-  #aboutus .textbox .icon {
-    font-size: 33px;
-  }
-  #aboutus .textbox h1 {
-    font-size: 33px;
-    font-weight: 400;
+  #aboutus .textbox h3, #aboutus .textbox p {
+    font-size: 31px;
   }
   #aboutus .textbox h3 {
-    font-size: 49px;
+    margin-right: 23px;
   }
-  #aboutus .textbox p {
+  #aboutus .icon {
     font-size: 34px;
   }
-  #aboutus .imgbox {
-    width: 200%;
-    height: 200%;
-    padding-top: 45px;
+  #aboutus li h4 {
+    font-size: 37px;
+    margin-bottom: 39px;
   }
 }
 
