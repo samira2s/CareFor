@@ -396,11 +396,11 @@ body {
   font-size: 30px;
 }
 @media screen and (max-width: 992px) {
-  #questions .wid .bigicon {
-    font-size: 44px;
+  #questions .bigicon {
+    font-size: 49px;
   }
-  #questions .wid h1 {
-    font-size: 39px;
+  #questions h3 {
+    font-size: 28px;
   }
 }
 
