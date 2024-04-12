@@ -455,6 +455,24 @@ body {
   margin: 20px;
   color: #d4cece;
 }
+@media screen and (max-width: 992px) {
+  #doggerblog h3 {
+    font-size: 29px;
+  }
+  #doggerblog .box {
+    margin-bottom: 37px;
+  }
+  #doggerblog .box h2, #doggerblog .box p {
+    font-size: 30px;
+  }
+  #doggerblog .box h4 {
+    font-size: 20px;
+  }
+  #doggerblog .box .imgbox {
+    height: auto;
+    width: 200%;
+  }
+}
 
 #ourservices {
   padding: 40px 0;
