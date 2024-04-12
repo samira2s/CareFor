@@ -507,4 +507,15 @@ body {
   font-size: 30px;
   margin: 20px;
   color: #d4cece;
+}
+@media screen and (max-width: 992px) {
+  #ourservices h3 {
+    font-size: 29px;
+  }
+  #ourservices .textbox .icon {
+    font-size: 67px;
+  }
+  #ourservices .textbox h2, #ourservices .textbox h3 {
+    font-size: 30px;
+  }
 }/*# sourceMappingURL=style.css.map */
