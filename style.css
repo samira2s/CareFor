@@ -401,6 +401,18 @@ body {
   }
   #questions h3 {
     font-size: 28px;
+    margin-top: 23px;
+  }
+  #questions .textbox h2, #questions .textbox p {
+    font-size: 36px;
+    margin-right: 35px;
+  }
+  #questions .textbox h4 {
+    font-size: 35px;
+    margin-bottom: 24px;
+  }
+  #questions .imgbox {
+    margin-left: 65px;
   }
 }
 
