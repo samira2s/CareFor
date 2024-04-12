@@ -164,11 +164,11 @@ body {
   #aboutus .textbox h3 {
     margin-right: 23px;
   }
-  #aboutus .icon {
+  #aboutus .textbox .icon {
     font-size: 34px;
   }
-  #aboutus li h4 {
-    font-size: 37px;
+  #aboutus .textbox h4 {
+    font-size: 24px;
     margin-bottom: 39px;
   }
 }
